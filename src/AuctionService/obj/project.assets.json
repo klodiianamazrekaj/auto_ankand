@@ -44,10 +44,10 @@
           }
         }
       },
-      "MassTransit/8.2.3": {
+      "MassTransit/8.2.2": {
         "type": "package",
         "dependencies": {
-          "MassTransit.Abstractions": "8.2.3",
+          "MassTransit.Abstractions": "8.2.2",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "Microsoft.Extensions.Diagnostics.HealthChecks": "8.0.0",
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.0",
@@ -65,7 +65,7 @@
           }
         }
       },
-      "MassTransit.Abstractions/8.2.3": {
+      "MassTransit.Abstractions/8.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0/MassTransit.Abstractions.dll": {
@@ -78,10 +78,10 @@
           }
         }
       },
-      "MassTransit.EntityFrameworkCore/8.2.3": {
+      "MassTransit.EntityFrameworkCore/8.2.2": {
         "type": "package",
         "dependencies": {
-          "MassTransit": "8.2.3",
+          "MassTransit": "8.2.2",
           "Microsoft.EntityFrameworkCore.Relational": "8.0.0"
         },
         "compile": {
@@ -1167,10 +1167,10 @@
         "logo.png"
       ]
     },
-    "MassTransit/8.2.3": {
-      "sha512": "gh6xXWOs/dTVQsJF+40bMKNYxNr915GuyF9goi+Fa+EMLbeVxTVXBXV+h5WlGm0S4yaX0qLGEKSPPcCzYCvFLg==",
+    "MassTransit/8.2.2": {
+      "sha512": "aW0Lq+Rb1vS8SHd/i+puXhzkdowQ7dC2j0T7eUkGm3H3KPk1pqb2tQvkKBop+4ztLq/l0eLOZjjeh19lE7bu/g==",
       "type": "package",
-      "path": "masstransit/8.2.3",
+      "path": "masstransit/8.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1183,15 +1183,15 @@
         "lib/net8.0/MassTransit.xml",
         "lib/netstandard2.0/MassTransit.dll",
         "lib/netstandard2.0/MassTransit.xml",
-        "masstransit.8.2.3.nupkg.sha512",
+        "masstransit.8.2.2.nupkg.sha512",
         "masstransit.nuspec",
         "mt-logo-small.png"
       ]
     },
-    "MassTransit.Abstractions/8.2.3": {
-      "sha512": "dKD1gZ2c75tzaShRGuPuKm3/gviiUzn3ZG0E9alu4vJqQJQRNwSIAZ088NocYy8l4fRs3+La+C2sa9OolkEamw==",
+    "MassTransit.Abstractions/8.2.2": {
+      "sha512": "kxrXaOMj+koCpkUKyjctv1+vKrk7t8dBU62duD4CoFA1pVdwwaTtiTXEoDfgR+gikT2aKDmP6DNvWOhxia5xOA==",
       "type": "package",
-      "path": "masstransit.abstractions/8.2.3",
+      "path": "masstransit.abstractions/8.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1204,15 +1204,15 @@
         "lib/net8.0/MassTransit.Abstractions.xml",
         "lib/netstandard2.0/MassTransit.Abstractions.dll",
         "lib/netstandard2.0/MassTransit.Abstractions.xml",
-        "masstransit.abstractions.8.2.3.nupkg.sha512",
+        "masstransit.abstractions.8.2.2.nupkg.sha512",
         "masstransit.abstractions.nuspec",
         "mt-logo-small.png"
       ]
     },
-    "MassTransit.EntityFrameworkCore/8.2.3": {
-      "sha512": "u9HMg6VLOJY4771BC6opP3lONjblRM06Kl0jO8WaGE1y4pVnuPpMH61XD1O4mNmz9CDR8a8+WsqD+YjeMwlvZw==",
+    "MassTransit.EntityFrameworkCore/8.2.2": {
+      "sha512": "DnEZOMa5lDjmbasuTcGqMn97MDU3DtJOf9baXFwS4n+LDtZVa+tt95ReCiVT6iK0YRx62h1VQm93bxZL8QIw+Q==",
       "type": "package",
-      "path": "masstransit.entityframeworkcore/8.2.3",
+      "path": "masstransit.entityframeworkcore/8.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1223,7 +1223,7 @@
         "lib/net8.0/MassTransit.EntityFrameworkCoreIntegration.xml",
         "lib/netstandard2.0/MassTransit.EntityFrameworkCoreIntegration.dll",
         "lib/netstandard2.0/MassTransit.EntityFrameworkCoreIntegration.xml",
-        "masstransit.entityframeworkcore.8.2.3.nupkg.sha512",
+        "masstransit.entityframeworkcore.8.2.2.nupkg.sha512",
         "masstransit.entityframeworkcore.nuspec",
         "mt-logo-small.png"
       ]
@@ -2895,7 +2895,7 @@
     "net8.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Contracts >= 1.0.0",
-      "MassTransit.EntityFrameworkCore >= 8.2.3",
+      "MassTransit.EntityFrameworkCore >= 8.2.2",
       "MassTransit.RabbitMQ >= 8.2.2",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.6",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 8.0.4"
@@ -2953,7 +2953,7 @@
           },
           "MassTransit.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[8.2.3, )"
+            "version": "[8.2.2, )"
           },
           "MassTransit.RabbitMQ": {
             "target": "Package",
