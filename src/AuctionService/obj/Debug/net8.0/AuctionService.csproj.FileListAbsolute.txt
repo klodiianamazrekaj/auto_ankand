@@ -107,3 +107,11 @@
 /Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Contracts.dll
 /Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
 /Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/klodianamazrekaj/Documents/auto_ankand/src/AuctionService/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
